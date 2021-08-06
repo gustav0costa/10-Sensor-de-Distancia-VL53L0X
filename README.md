@@ -6,7 +6,7 @@
 # Componentes:
 #     - Sensor de distancia VL53L0X
 #     - Display oled 128x32 I2C
-#     - Microcontrolador ESP-32-WROOM
+#     - Microcontrolador ATMEGA328P
 #
 # Descrição:
 #     - O sensor de Distância VL53L0X é um módulo eletrônico de alta precisão. Ele é capaz de fazer medições de distâncias com mínima margem de erro se comparado a outros sensores existentes. O funcionamento é simples, quando em operação ele envia um laser invisível a olho nu, onde esse é refletivo e volta, fazendo com que o sensor consiga medir com exatidão o tempo de resposta, fazendo a conversão na respectiva medida obtida.

@@ -20,7 +20,7 @@
 #
 #     - Nossa trena eletrônica consistirá em um compartimento pequeno, para ser portátil, para uso em qualquer situação na qual poderia se usar a trena manual. A case terá a forma de uma caixa retangular, pois neste formato facilita o apoio da base nas superfícies nas quais se deseja realizar a medida. Na parte da frente estará o sensor de distancia que irá fazer a medida da distancia, e na parte de cima, voltado para o usuário, estará a tela OLED retornando o valor da medida obtido. Na sua parte lateral terá um botão interruptor para ligar e desligar o equipamento.
 #
-#     - Por ser portátil, nosso sistema funcionará através de baterias, que atinjam a tensão total de 6 volts necessárias para o sistema, estas baterias preferencialmente recarregáveis para evitar custos com aquisições de novas baterias, embora o consumo do equipamento seja baixo, estimamos este tipo de alimentação para facilitar o uso sem custos adicionais, além da aquisição inicial.
+#     - Por ser portátil, nosso sistema funcionará através de baterias, que atinjam a tensão total de 6 volts necessárias para o sistema.
 #
 #     - Ainda na parte traseira do equipamento, oposta ao sensor de distancia e voltada para o usuário, será colocado o compartimento que comportará as baterias, bem visível e de fácil acesso para o usuário, caso este queira realizar a troca das baterias, ou retirada para recarregá-las.
 #

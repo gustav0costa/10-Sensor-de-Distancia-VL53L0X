@@ -2,14 +2,14 @@
 
 # ######################
 # Tecnicas de Prototipagem:      
-#  Caio Eduardo      
-#  Claudio Alberto   
-#  Gustavo Diego     
+#  - Caio Eduardo      
+#  - Claudio Alberto   
+#  - Gustavo Diego     
 # #####################
 
 # #######################
 # Sistemas Embarcados: 
-#  Alisson Lucena      
-#  Caio Eduardo        
-#  Gustavo Diego       
+#  - Alisson Lucena      
+#  - Caio Eduardo        
+#  - Gustavo Diego       
 # #######################

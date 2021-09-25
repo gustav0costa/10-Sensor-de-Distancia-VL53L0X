@@ -1,0 +1,8 @@
+Battery Holder 2AA
+Capacitores ceramicos
+Cristal Oscilador 16MHz
+Conectores Header/KK
+Microchip ATMega328p
+Interruptor DIP
+Sensor de Distancia VL53L0x
+Display OLED 0.91
